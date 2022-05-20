@@ -4,5 +4,6 @@
 int main(){
   int A=15;
   int B=16;
+  int C=17
   
 }
