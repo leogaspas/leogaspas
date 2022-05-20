@@ -1,0 +1,8 @@
+#include <iostream.h>
+#include <studio.h>
+
+int main(){
+  int A=15;
+  int B=16;
+  
+}
